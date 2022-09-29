@@ -1,5 +1,5 @@
-##Game Programmer
-###I ❤️ Game 🎮
+## Game Programmer
+### I ❤️ Game 🎮
 
 <!---
 YeseulLee-lab/YeseulLee-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
