@@ -1,5 +1,13 @@
-## Game Programmer
-### I ❤️ Game 🎮
+👀 Hi there! I'm **Game Programmer** using **Unity** and **C#**
+💓 I love Games 🎮
+
+I enjoy watching movies🎬 and playing games ☺️
+
+I hope to develope **"Good Game"**
+
+### 💪 Skiils
+
+<img src="https://img.shields.io/badge/Unity-36566F?style=plastic&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/></a>
 
 <!---
 YeseulLee-lab/YeseulLee-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
