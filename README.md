@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @YeseulLee-lab
-- 👀 I’m interested in Game Progromming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+##Game Programmer
+###I ❤️ Game 🎮
 
 <!---
 YeseulLee-lab/YeseulLee-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
