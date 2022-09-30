@@ -7,7 +7,7 @@ I hope to develope **"Good Game"**
 
 ### 💪 Skiils
 
-<img src="https://img.shields.io/badge/Unity-36566F?style=plastic&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-36566F?style=plastic&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github&logoColor=white"/></a>
 
 <!---
 YeseulLee-lab/YeseulLee-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
