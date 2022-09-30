@@ -1,5 +1,5 @@
 👀 Hi there! I'm **Game Programmer** using **Unity** and **C#**
-💓 I love Games 🎮
+<br>💓 I love Games 🎮
 
 I enjoy watching movies🎬 and playing games ☺️
 
