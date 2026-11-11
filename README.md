@@ -14,4 +14,4 @@ YeseulLee-lab/YeseulLee-lab is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeseulLee-lab&&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-three-pink-59.vercel.app/api?username=YeseulLee-lab&show_icons=true&theme=radical)
